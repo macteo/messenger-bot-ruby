@@ -136,7 +136,8 @@ end
 
 ## Aknowledgments
 
-Idea and initial implementation by [Matteo Gavagnin](https://twitter.com/macteo)
+Idea and initial implementation by [Matteo Gavagnin](https://twitter.com/macteo).
+
 Thanks again to [Alexander Tipugin](mailto:atipugin@gmail.com) for inspiration and the [original gem](https://github.com/atipugin/telegram-bot-ruby) architecture.
 
 ## Contributing
