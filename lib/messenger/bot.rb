@@ -1,0 +1,10 @@
+require 'httmultiparty'
+require 'persistent_httparty'
+require 'virtus'
+
+require 'messenger/bot/types'
+require 'messenger/bot/exceptions'
+require 'messenger/bot/api'
+require 'messenger/bot/null_logger'
+require 'messenger/bot/client'
+require 'messenger/bot/version'
